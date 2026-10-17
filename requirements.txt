@@ -1,0 +1,13 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+scikit-learn
+tqdm
+torchsummary
+split-folders
+tabulate
+torchcam

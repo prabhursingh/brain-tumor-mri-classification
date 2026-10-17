@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Data (not tracked)
+Brain Tumor Data Set/
+split_brain_dataset/
+data/
+
+# Large weights distributed via GitHub Releases
+models/resnet18_brain.pt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
