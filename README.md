@@ -134,7 +134,7 @@ brain-tumor-mri-classification/
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/<your-username>/brain-tumor-mri-classification.git
+git clone https://github.com/prabhursingh/brain-tumor-mri-classification.git
 cd brain-tumor-mri-classification
 pip install -r requirements.txt
 ```
