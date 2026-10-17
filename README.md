@@ -173,7 +173,7 @@ model = load_model("resnet18", "models/resnet18_brain.pt")
 
 ## 👤 Author
 
-**Dr. Prabhu Raj Singh**
+**Prabhu Raj Singh**
 
 If you find this project useful, please ⭐ the repository!
 
